@@ -1,0 +1,13 @@
+.chart {
+    height: 500px;
+    border-radius: 10px;
+    padding: 15px 20px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.06), 0 0 6px rgba(0,0,0,0.13);
+    min-width: 0;
+}
+
+@media (max-width: 760px) {
+    .chart {
+        height: 310px;
+    }
+}

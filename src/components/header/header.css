@@ -1,0 +1,28 @@
+.header {
+    position: fixed;
+    height: 60px;
+    background-color: #2026D2;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.03), 0 3px 6px rgba(0,0,0,0.08);
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: space-between; */
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    z-index: 100;
+}
+
+.center-bar{
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+    padding: 8px 20px;
+    text-align: center;
+}
+
+.logo{
+    height: 40px;
+}
+
+
+
