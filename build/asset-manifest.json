@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.78045737.chunk.css",
-    "main.js": "/static/js/main.686387e9.chunk.js",
-    "main.js.map": "/static/js/main.686387e9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5336a15c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5336a15c.js.map",
-    "static/js/2.e828f193.chunk.js": "/static/js/2.e828f193.chunk.js",
-    "static/js/2.e828f193.chunk.js.map": "/static/js/2.e828f193.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.fb696542016aa2b274dfad83ee6fa017.js": "/precache-manifest.fb696542016aa2b274dfad83ee6fa017.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.78045737.chunk.css.map": "/static/css/main.78045737.chunk.css.map",
-    "static/js/2.e828f193.chunk.js.LICENSE.txt": "/static/js/2.e828f193.chunk.js.LICENSE.txt",
-    "static/media/Ball_by_Ball.csv": "/static/media/Ball_by_Ball.96f5d1a1.csv",
-    "static/media/Match.csv": "/static/media/Match.9fc57626.csv",
-    "static/media/Player.csv": "/static/media/Player.ff8fbde8.csv",
-    "static/media/Season.csv": "/static/media/Season.1315c877.csv",
-    "static/media/atlanlogo.svg": "/static/media/atlanlogo.40c9d1d3.svg"
+    "main.css": "/IPL_Challenge/static/css/main.78045737.chunk.css",
+    "main.js": "/IPL_Challenge/static/js/main.777938d8.chunk.js",
+    "main.js.map": "/IPL_Challenge/static/js/main.777938d8.chunk.js.map",
+    "runtime-main.js": "/IPL_Challenge/static/js/runtime-main.e8369749.js",
+    "runtime-main.js.map": "/IPL_Challenge/static/js/runtime-main.e8369749.js.map",
+    "static/js/2.5c7772e6.chunk.js": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js",
+    "static/js/2.5c7772e6.chunk.js.map": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js.map",
+    "index.html": "/IPL_Challenge/index.html",
+    "precache-manifest.650859058b37a6a9114567bc8b468296.js": "/IPL_Challenge/precache-manifest.650859058b37a6a9114567bc8b468296.js",
+    "service-worker.js": "/IPL_Challenge/service-worker.js",
+    "static/css/main.78045737.chunk.css.map": "/IPL_Challenge/static/css/main.78045737.chunk.css.map",
+    "static/js/2.5c7772e6.chunk.js.LICENSE.txt": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js.LICENSE.txt",
+    "static/media/Ball_by_Ball.csv": "/IPL_Challenge/static/media/Ball_by_Ball.96f5d1a1.csv",
+    "static/media/Match.csv": "/IPL_Challenge/static/media/Match.9fc57626.csv",
+    "static/media/Player.csv": "/IPL_Challenge/static/media/Player.ff8fbde8.csv",
+    "static/media/Season.csv": "/IPL_Challenge/static/media/Season.1315c877.csv",
+    "static/media/atlanlogo.svg": "/IPL_Challenge/static/media/atlanlogo.40c9d1d3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5336a15c.js",
-    "static/js/2.e828f193.chunk.js",
+    "static/js/runtime-main.e8369749.js",
+    "static/js/2.5c7772e6.chunk.js",
     "static/css/main.78045737.chunk.css",
-    "static/js/main.686387e9.chunk.js"
+    "static/js/main.777938d8.chunk.js"
   ]
 }
