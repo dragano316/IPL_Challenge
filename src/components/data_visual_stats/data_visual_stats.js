@@ -265,7 +265,6 @@ class DataContent extends Component {
                 }
             });
 
-            console.log(bowlingSkill)
 
 
             this.setState({
