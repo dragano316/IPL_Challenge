@@ -7,6 +7,11 @@ Use the IPL data given below to create a web app (a dashboard using data visuali
 
 Remember that Vipul doesn’t have much time, so create a very easy-to-understand dashboard for him.
 
+## Dataset
+    => Link for Dataset - https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset 
+
+## Website Hosted using GitHub Pages
+    => Link for website - https://dragano316.github.io/IPL_Challenge/
 
 ## Libraries/Framework used to build the website
 
@@ -17,7 +22,15 @@ Remember that Vipul doesn’t have much time, so create a very easy-to-understan
     => Papaparse https://www.papaparse.com/ - Papa Parse is the fastest in-browser CSV (or delimited text) parser for JavaScript.
 
 
-## Dataset
-    => Link for Dataset - https://www.kaggle.com/harsha547/indian-premier-league-csv-dataset 
+## Bonus Points Explanation
+    => I used React.js instead of vue.js because I am familiar with ReactJS.
+
+    => I wrote the code by following best practices to ensure best performance of the website. I worked on improving the performance of the website by doing audits and I did necessary changes to optimize the website.
+
+    => This website is mobile responsive. Chart.js is an easy to use library to make responsive graphs.
+
+    => The website is a Progressive Web App (verified by lighthouse). Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.
+
+    => This website is also available in offline mode.
 
 
