@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IPL_Challenge/static/css/main.1fd972fc.chunk.css",
-    "main.js": "/IPL_Challenge/static/js/main.305c7681.chunk.js",
-    "main.js.map": "/IPL_Challenge/static/js/main.305c7681.chunk.js.map",
+    "main.js": "/IPL_Challenge/static/js/main.c4acb6f7.chunk.js",
+    "main.js.map": "/IPL_Challenge/static/js/main.c4acb6f7.chunk.js.map",
     "runtime-main.js": "/IPL_Challenge/static/js/runtime-main.e8369749.js",
     "runtime-main.js.map": "/IPL_Challenge/static/js/runtime-main.e8369749.js.map",
     "static/js/2.5c7772e6.chunk.js": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js",
     "static/js/2.5c7772e6.chunk.js.map": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js.map",
     "index.html": "/IPL_Challenge/index.html",
-    "precache-manifest.998f26745c3ba48015e8b909372b9bd6.js": "/IPL_Challenge/precache-manifest.998f26745c3ba48015e8b909372b9bd6.js",
+    "precache-manifest.e47665b9dab8706fc0ffc71c47034e74.js": "/IPL_Challenge/precache-manifest.e47665b9dab8706fc0ffc71c47034e74.js",
     "service-worker.js": "/IPL_Challenge/service-worker.js",
     "static/css/main.1fd972fc.chunk.css.map": "/IPL_Challenge/static/css/main.1fd972fc.chunk.css.map",
     "static/js/2.5c7772e6.chunk.js.LICENSE.txt": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.e8369749.js",
     "static/js/2.5c7772e6.chunk.js",
     "static/css/main.1fd972fc.chunk.css",
-    "static/js/main.305c7681.chunk.js"
+    "static/js/main.c4acb6f7.chunk.js"
   ]
 }
