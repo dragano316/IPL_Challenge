@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/IPL_Challenge/static/css/main.78045737.chunk.css",
-    "main.js": "/IPL_Challenge/static/js/main.777938d8.chunk.js",
-    "main.js.map": "/IPL_Challenge/static/js/main.777938d8.chunk.js.map",
+    "main.css": "/IPL_Challenge/static/css/main.1fd972fc.chunk.css",
+    "main.js": "/IPL_Challenge/static/js/main.305c7681.chunk.js",
+    "main.js.map": "/IPL_Challenge/static/js/main.305c7681.chunk.js.map",
     "runtime-main.js": "/IPL_Challenge/static/js/runtime-main.e8369749.js",
     "runtime-main.js.map": "/IPL_Challenge/static/js/runtime-main.e8369749.js.map",
     "static/js/2.5c7772e6.chunk.js": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js",
     "static/js/2.5c7772e6.chunk.js.map": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js.map",
     "index.html": "/IPL_Challenge/index.html",
-    "precache-manifest.650859058b37a6a9114567bc8b468296.js": "/IPL_Challenge/precache-manifest.650859058b37a6a9114567bc8b468296.js",
+    "precache-manifest.998f26745c3ba48015e8b909372b9bd6.js": "/IPL_Challenge/precache-manifest.998f26745c3ba48015e8b909372b9bd6.js",
     "service-worker.js": "/IPL_Challenge/service-worker.js",
-    "static/css/main.78045737.chunk.css.map": "/IPL_Challenge/static/css/main.78045737.chunk.css.map",
+    "static/css/main.1fd972fc.chunk.css.map": "/IPL_Challenge/static/css/main.1fd972fc.chunk.css.map",
     "static/js/2.5c7772e6.chunk.js.LICENSE.txt": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js.LICENSE.txt",
     "static/media/Ball_by_Ball.csv": "/IPL_Challenge/static/media/Ball_by_Ball.96f5d1a1.csv",
     "static/media/Match.csv": "/IPL_Challenge/static/media/Match.9fc57626.csv",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.e8369749.js",
     "static/js/2.5c7772e6.chunk.js",
-    "static/css/main.78045737.chunk.css",
-    "static/js/main.777938d8.chunk.js"
+    "static/css/main.1fd972fc.chunk.css",
+    "static/js/main.305c7681.chunk.js"
   ]
 }

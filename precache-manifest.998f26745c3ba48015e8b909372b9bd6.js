@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1755c1d97c387ae372f5f8fda2050d1",
+    "revision": "85aea0a3de96048f904e108a7149408d",
     "url": "/IPL_Challenge/index.html"
   },
   {
-    "revision": "91cb1aac6238822f2c1c",
-    "url": "/IPL_Challenge/static/css/main.78045737.chunk.css"
+    "revision": "607c58a3370c80621fe4",
+    "url": "/IPL_Challenge/static/css/main.1fd972fc.chunk.css"
   },
   {
     "revision": "b012ffc4a14365ea3a26",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IPL_Challenge/static/js/2.5c7772e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91cb1aac6238822f2c1c",
-    "url": "/IPL_Challenge/static/js/main.777938d8.chunk.js"
+    "revision": "607c58a3370c80621fe4",
+    "url": "/IPL_Challenge/static/js/main.305c7681.chunk.js"
   },
   {
     "revision": "444a94d3d512595c31f1",
