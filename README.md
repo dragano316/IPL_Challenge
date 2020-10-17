@@ -27,10 +27,12 @@ Remember that Vipul doesn’t have much time, so create a very easy-to-understan
 
     => I wrote the code by following best practices to ensure best performance of the website. I worked on improving the performance of the website by doing audits and I did necessary changes to optimize the website.
 
-    => This website is mobile responsive. Chart.js is an easy to use library to make responsive graphs.
+    => This website is mobile responsive. Chart.js is an easy to use library to make responsive graphs and apart from this I used media queries to make relevant elements responsive.
 
     => The website is a Progressive Web App (verified by lighthouse). Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.
 
     => This website is also available in offline mode.
+
+
 
 
