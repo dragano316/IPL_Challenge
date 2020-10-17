@@ -1,4 +1,4 @@
-.graph-container {
+.graph {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-column-gap: 30px;
@@ -7,7 +7,13 @@
     overflow-y: auto;
 }
 
-.infobox-container {
+.content {
+    flex: 1;
+    margin-top: 60px;
+    overflow-y: auto;
+}
+
+.infoboxes {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-column-gap: 30px;
@@ -16,42 +22,40 @@
     overflow-y: auto;
 }
 
-.content-container {
-    flex: 1;
-    margin-top: 60px;
-    overflow-y: auto;
-}
+
 
 @media (max-width: 1250px) {
-    .graph-container {
+    .graph {
         grid-template-columns: 1fr;
     }
-    .infobox-container {
+    .infoboxes {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media (max-width: 750px) {
-    .graph-container {
+@media (max-width: 760px) {
+    .graph {
         padding: 30px 10px;
     }
-    .infobox-container {
-        grid-row-gap: 20px;
-        padding: 20px 20px 10px 20px;
-    }
-    .title-container h1 {
+    .heading h1 {
         font-weight: 300;
         font-size: 1.8rem;
     }
+    .infoboxes {
+        grid-row-gap: 20px;
+        padding: 20px 20px 10px 20px;
+    }
+
 }
 
- @media (max-width: 650px) {
-    .graph-container {
-        padding: 20px 0px;
-    }
-    .infobox-container {
+ @media (max-width: 600px) {
+    .infoboxes {
         grid-template-columns: 1fr;
     }
+    .graph {
+        padding: 20px 0px;
+    }
+
 } 
 
 

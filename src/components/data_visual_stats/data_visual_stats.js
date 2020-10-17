@@ -259,11 +259,13 @@ class DataContent extends Component {
                 if(bowlingSkill[e.Bowling_Skill] !== undefined) {
                     bowlingSkill[e.Bowling_Skill] += 1;
                 } else {
-                    if(e.Player_Id!=null){
+                    if(e.Player_Id!=null && e.Bowling_Skill!=="NULL"){
                         bowlingSkill[e.Bowling_Skill] = 1;
                     }
                 }
             });
+
+            console.log(bowlingSkill)
 
 
             this.setState({
@@ -596,12 +598,12 @@ class DataContent extends Component {
     render() {
 
         return (
-            <div className='content-container'>
-                <div className='title-container' style={{textAlign:"center",padding:"25px 25px 0px 25px"}}>
+            <div className='content'>
+                <div className='heading' style={{textAlign:"center",padding:"25px 25px 0px 25px"}}>
                     <h1><span style={{fontWeight:700,marginTop:"0px",marginBottom:"0px",color:"#424A52"}}>Indian Premier League Statistics and Data Visualization</span></h1>
                 </div>
 
-                <div className='infobox-container'>
+                <div className='infoboxes'>
                     <Infobox 
                         data={this.state.infobox1} 
                         title='Total Seasons' 
@@ -644,7 +646,7 @@ class DataContent extends Component {
                     />
                 </div>
 
-                <div className='graph-container'>
+                <div className='graph'>
                     <Charts 
                         selectChart='bar' 
                         displayLegend={false} 
@@ -656,7 +658,8 @@ class DataContent extends Component {
                         titleText='Result' 
                     />
                     <Charts
-                        selectChart='pie' 
+                        selectChart='bar' 
+                        displayLegend={false}
                         chartData={this.state.chartinfo2} 
                         titleText='Host Countries' 
                     />
@@ -672,7 +675,7 @@ class DataContent extends Component {
                         titleText='Bowling Skill Types' 
                     />
                     <Charts 
-                        selectChart='horizontalBar' 
+                        selectChart='line' 
                         displayLegend={false} 
                         chartData={this.state.chartinfo6} 
                         titleText='Players Nationality' 
